@@ -73,7 +73,7 @@ Built using **C#/.NET** and **SQL Server**.
 - 📧 fallenangelnaga@nagasoftsolutions.com  
 - 🎯 [Fiverr](https://www.fiverr.com/venuathm30?public_mode=true)  
 - 💼 [Upwork](https://www.upwork.com/freelancers/~01765c5bf07cadae72?mp_source=share)  
-- 🌍 *(Optional)* venu-nath.dev  
+
 
 ---
 
