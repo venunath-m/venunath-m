@@ -65,12 +65,13 @@ Built using **C#/.NET** and **SQL Server**.
 
 ### 🔗 Social & Professional Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/venunath-m-3653a9255/recent-activity/all/)  
-- 🐙 [GitHub](https://github.com/venunath-m)  
 - 🌐 [Website](https://www.nagasoftsolutions.com/)  
 - 📄 [Resume/Profile](https://venunath.horitio.com/)  
 - 📱 [WhatsApp](https://wa.me/918590216646)  
 - 📧 fallenangelnaga@nagasoftsolutions.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/venunath-m-3653a9255/)
+- - ▶️ [YouTube Channel](https://www.youtube.com/@nbngb8112) 
+- 🐙 [GitHub](https://github.com/venunath-m)  
 - 🎯 [Fiverr](https://www.fiverr.com/venuathm30?public_mode=true)  
 - 💼 [Upwork](https://www.upwork.com/freelancers/~01765c5bf07cadae72?mp_source=share)  
 
